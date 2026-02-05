@@ -16,10 +16,10 @@
   </p>
   <h2> My interests </h2>
   <ul>
-    <li> Deep unsupervised learning </li>
+    <li> transformers </li>
     <li> video understanding </li>
     <li> computer vision </li>
-    <li> multimedia signal processing </li>
+    <li> natural language processing </li>
   </ul>
 </body>
 </html>
